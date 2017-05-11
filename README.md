@@ -1,2 +1,3 @@
 # EAfinalproject
 This final project is for a Big Data Analysis course at the University of Rhode Island. In this github repository I have the files and my final report on my analysis of Staphylococcus aureus and Corynebacterium striatum co-culture. I was not able to upload the raw reads from sequencing using single-end 50bp reads on an Illumina HiSeq 2500 system because the files were too large. I have uploaded the htseq-count in txt files called treated and untreated. I also have uploaded my Rstudio scripts for the DESeq2 analysis of my data. I made four graphs for the analysis of the data and they are within my final report.
+I uploaded a csv table with all the genes and their fold change and p value. This is the table that I used for my analysis.
